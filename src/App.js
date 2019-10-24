@@ -6,7 +6,7 @@ class App extends Component {
   constructor(){
     super();
     this.state = {
-      string: 'Aoa This is Talha !'
+      string: 'Aoa This is Talha ! And this is commited'
     };
   }
   render() {
