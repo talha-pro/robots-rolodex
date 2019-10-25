@@ -18,5 +18,19 @@
 }
 
 .App-link {
-  color: #09d3ac;
+  color: #09b5d3;
+}
+
+body {
+  padding: 30px 0;
+}
+
+.App {
+  text-align: center;
+}
+
+h1 {
+  font-family: 'Bigelow Rules';
+  font-size: 72px;
+  color: #0c94ca;
 }
